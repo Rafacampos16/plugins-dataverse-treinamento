@@ -1,4 +1,4 @@
-# 🔌 Plugins Dataverse — Smart Consulting
+# 🔌 Plugins Dataverse 
 
 Projeto desenvolvido durante treinamento em Power Platform / Dataverse, com foco em criação de **Plugins em C#** para automação de regras de negócio no Dynamics 365.
 
